@@ -1,4 +1,4 @@
-# Link's Digital - Plataforma de Links Personalizados
+# Digital Bio - Plataforma de Links Personalizados
 
 ## Descrição do Projeto
 Link's Digital é uma plataforma que permite aos usuários criar e personalizar links únicos. Esses links podem ser utilizados para redirecionar para diversos conteúdos, facilitar o compartilhamento de informações e promover a identidade digital de indivíduos ou empresas.
